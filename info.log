@@ -12,3 +12,7 @@
 {"message":"Bookmark with id be86c184-1bef-4831-9b8d-12652d348e7c not found.","level":"error"}
 {"message":"Bookmark with id be86c184-1bef-4831-9b8d-12652d348e7c deleted.","level":"info"}
 {"message":"Title is required","level":"error"}
+{"message":"Bookmark with id 7594b88e-5bf3-43c1-a162-e56295f0d152 created","level":"info"}
+{"message":"Rating has to be a number","level":"error"}
+{"message":"Bookmark with id e59662bb-06f7-48c0-b6ad-039b24ac063c created","level":"info"}
+{"message":"Bookmark with id 4bdd0dde-60e7-410e-84c9-f800a062be7c created","level":"info"}

@@ -35,13 +35,18 @@ bookmarkRouter
 			return res.status(400).send('Invalid data');
 		}
 
+		if (isNaN(parseInt(rating))) {
+			logger.error('Rating has to be a number');
+			return res.status(400).send('Invalid data');
+		}
+
 		const id = uuid();
 		const bookmark = {
 			id,
 			title,
 			url,
 			description,
-			rating
+			rating: parseInt(rating)
 		};
 
 		bookmarks.push(bookmark);
