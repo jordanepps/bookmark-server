@@ -1,0 +1,14 @@
+{"message":"Unauthorized request to path : /bookmark","level":"error"}
+{"message":"Bookmark with id 160cd4b5-cecf-41b8-bec2-866afe528297 created","level":"info"}
+{"message":"Unauthorized request to path : /160cd4b5-cecf-41b8-bec2-866afe528297","level":"error"}
+{"message":"Bookmark with id 160cd4b5-cecf-41b8-bec2-866afe528297 not found.","level":"error"}
+{"message":"Bookmark with id 160cd4b5-cecf-41b8-bec2-866afe528297 not found.","level":"error"}
+{"message":"Bookmark with id b83817bd-7d6e-4ff4-8055-8e3c282ad237 created","level":"info"}
+{"message":"Bookmark with id 160cd4b5-cecf-41b8-bec2-866afe528297 not found.","level":"error"}
+{"message":"Bookmark with id 160cd4b5-cecf-41b8-bec2-866afe528297 not found.","level":"error"}
+{"message":"Bookmark with id b5b7c308-2a67-44cd-bd09-ee6814b2f91d created","level":"info"}
+{"message":"Bookmark with id b5b7c308-2a67-44cd-bd09-ee6814b2f91d deleted.","level":"info"}
+{"message":"Bookmark with id be86c184-1bef-4831-9b8d-12652d348e7c deleted.","level":"info"}
+{"message":"Bookmark with id be86c184-1bef-4831-9b8d-12652d348e7c not found.","level":"error"}
+{"message":"Bookmark with id be86c184-1bef-4831-9b8d-12652d348e7c deleted.","level":"info"}
+{"message":"Title is required","level":"error"}
